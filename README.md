@@ -1,1 +1,1 @@
-# bitcoin-prediction
+# Bitcoin price prediction based on CatBoostRegressor
