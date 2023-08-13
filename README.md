@@ -1,3 +1,3 @@
 # Bitcoin price prediction
 
-Bitcoin price prediction based on CatBoostRegressor
+7-days Bitcoin price prediction based on CatBoostRegressor
